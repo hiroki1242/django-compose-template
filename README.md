@@ -25,3 +25,6 @@ docker-compose up
 - 初期設定のまま起動すると、db.sqlite3ファイルが自動作成される。
 - デタッチドモードで起動する場合はオプションで`-d`をつける
 - イメージの作成はrunで自動作成されるため、手順1は省略可能
+
+### MySQLを使う場合
+- [Repository](https://github.com/hiroki1242/django-mysql-template/tree/main "django-mysqlのリポジトリ")
